@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "How can you create Alert with JavaScript?",
+      "choiceA": "document.write()",
+      "choiceB": "console.log.alert()",
+      "choiceC": "alert()",
+      "choiceD": "prompt('Alert')",
+      "answer": "choiceC"
+    },
+    {
+      "question": "Which is connotation of DOM?",
+      "choiceA": "Document Orient Model",
+      "choiceB": "Directed Object Module",
+      "choiceC": "Document Detected Model",
+      "choiceD": "Document Object Model",
+      "answer": "choiceD"
+    },
+    {
+      "question": "How can we select a group classes with DOM?",
+      "choiceA": "document.allClasses()",
+      "choiceB": "document.querySelectorAll()",
+      "choiceC": "direction.querySelectorAll()",
+      "choiceD": "body.querySelectorAll()",
+      "answer": "choiceB"
+    }
+  ]
+}
